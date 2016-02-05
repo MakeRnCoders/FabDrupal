@@ -217,7 +217,7 @@ $databases = array (
     array (
       'database' => 'fabdrupal',
       'username' => 'root',
-      'password' => '',
+      'password' => 'password',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
